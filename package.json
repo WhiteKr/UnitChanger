@@ -1,0 +1,20 @@
+{
+  "name": "unitchanger",
+  "version": "2.0.0",
+  "description": "Byte Unit Changer API",
+  "main": "unitChanger.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "unit",
+    "changer",
+    "unitchanger",
+    "byte",
+    "단위",
+    "변환기",
+    "바이트"
+  ],
+  "author": "WhiteKr",
+  "license": "ISC"
+}
