@@ -1,8 +1,8 @@
 class UnitChangerAPI {
 	ByteCal(bytes) {
 		var bytes = parseInt(bytes);
-		var s = ["bytes", "KB", "MB", "GB", "TB", "PB", "ZB", "HB"];
-
+		var s = ["bytes", "KB", "MB", "GB", "TB", "PB", "EB", "ZB", "YB"];
+		
 		var e = Math.floor(Math.log(bytes) / Math.log(1024));
 
 		if (e == "-Infinity") return "0 " + s[0];
