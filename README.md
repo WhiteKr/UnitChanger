@@ -1,7 +1,8 @@
 # Unit Changer API
 [![NPM info](https://nodei.co/npm/unitchanger.png)](https://www.npmjs.com/package/unitchanger)
 
-정보 단위 변환을 돕는 API 라이브러리입니다.
+정보 단위 변환 API 라이브러리입니다.
+byte부터 YB까지 사이의 정보단위 변환을 지원합니다.
 
 기본적으로 JavaScript와 TypeScript를 지원합니다.
 
