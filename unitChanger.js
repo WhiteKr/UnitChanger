@@ -1,6 +1,6 @@
 class UnitChangerAPI {
     ByteCal(bytes) {
-        var bytes = parseInt(bytes);
+        bytes = parseInt(bytes);
         var s = ["bytes", "KB", "MB", "GB", "TB", "PB", "EB", "ZB", "YB"];
 
         var e = Math.floor(Math.log(bytes) / Math.log(1024));
